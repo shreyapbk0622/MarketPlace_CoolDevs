@@ -3,10 +3,10 @@
 # Term Project - FALL 2024 - CMPE 272
 
 **Group: CoolDevs**  
+- Ravi Teja Gattu - 017503746
 - Krishna Shreya - 017416724  
-- Pawan Aditya M - 017506450  
 - Hafeeza Samreen - 017597008
-- Ravi Teja Gattu - 017503746 
+- Pawan Aditya M - 017506450 
   
 ## Project Overview
 
