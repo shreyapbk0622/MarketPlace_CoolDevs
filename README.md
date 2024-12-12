@@ -12,6 +12,8 @@
 
 This project is a comprehensive Marketplace application developed as part of the CMPE 272 Term Project. It allows users to explore multiple marketplaces, add reviews and ratings to products, and view the top-rated products across marketplaces. The application is designed with user interactivity and smooth performance in mind.
 
+## Project Deployment Link : http://ec2-3-145-156-205.us-east-2.compute.amazonaws.com:8080/home.php
+
 ---
 
 ## Features
