@@ -9,7 +9,7 @@
 - Krishna Shreya - 017416724  
 - Pawan Aditya M - 017506450  
 - Hafeeza Samreen - 017597008
-- 
+  
 ## Project Overview
 
 This project is a comprehensive Marketplace application developed as part of the CMPE 272 Term Project. It allows users to explore multiple marketplaces, add reviews and ratings to products, and view the top-rated products across marketplaces. The application is designed with user interactivity and smooth performance in mind.
