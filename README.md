@@ -3,16 +3,18 @@
 # Term Project - FALL 2024 - CMPE 272
 
 **Group: CoolDevs**  
-- Ravi Teja Gattu - 017503746  
 - Krishna Shreya - 017416724  
 - Pawan Aditya M - 017506450  
 - Hafeeza Samreen - 017597008
+- Ravi Teja Gattu - 017503746 
   
 ## Project Overview
 
 This project is a comprehensive Marketplace application developed as part of the CMPE 272 Term Project. It allows users to explore multiple marketplaces, add reviews and ratings to products, and view the top-rated products across marketplaces. The application is designed with user interactivity and smooth performance in mind.
 
 ## Project Deployment Link : http://ec2-3-145-156-205.us-east-2.compute.amazonaws.com:8080/home.php
+
+## Project Explanation video Link: https://youtu.be/elcXviqn0t0?si=MHuI9G2GzaCXaymi 
 
 ---
 
