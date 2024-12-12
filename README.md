@@ -1,8 +1,6 @@
 # Marketplace Application
 
-# FALL 2024
-# CMPE 272
-# Term Project
+# Term Project - FALL 2024 - CMPE 272
 
 **Group: CoolDevs**  
 - Ravi Teja Gattu - 017503746  
